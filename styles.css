@@ -391,3 +391,32 @@ h2 {
     margin-bottom: 3rem;
 }
 
+footer {
+    background-color: #071629;
+    padding-bottom: 1rem;
+}
+
+.footer-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 6rem 9rem 4.5rem 9rem;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+footer > p {
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    font-size: 12px;
+    color: #929292;
+    line-height: 100%;
+    letter-spacing: 0px;
+    text-align: center;
+
+}
+
